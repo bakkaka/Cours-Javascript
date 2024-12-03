@@ -1,0 +1,5 @@
+1-length
+2-Score
+3- bouclescore
+4-motouphrases
+5-fonctionexample
